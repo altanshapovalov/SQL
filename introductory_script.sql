@@ -1,5 +1,6 @@
---Script 1 to get accustomed with SQL. Understanding of basic commands. Examples learned from Tab Nation
+-- Script 1 to get accustomed with SQL. Understanding of basic commands. Examples learned from Tab Nation
 -- Maxim Altan-Lu Shapovalov, 30 March, 2026
+-- data are the Sample Database provided by DBeaver
 
 
 -- 1) Showing anything in a table
